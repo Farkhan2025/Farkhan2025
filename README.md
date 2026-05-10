@@ -1,6 +1,6 @@
 # Mohamed Farkhan
 
-**Java Full Stack Developer** · Spring Boot · REST APIs · MySQL
+Java Full Stack Developer · Spring Boot · REST APIs · MySQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan011/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/mohamedfarkhan011/)
@@ -9,7 +9,7 @@
 
 ---
 
-Building backend systems with Java and Spring Boot. Focused on clean architecture, RESTful API design, and developing strong problem-solving fundamentals through consistent DSA practice.
+Building backend systems with Java and Spring Boot. Focused on RESTful API design, clean layered architecture, and strengthening problem-solving fundamentals through DSA practice.
 
 ---
 
@@ -40,38 +40,36 @@ Building backend systems with Java and Spring Boot. Focused on clean architectur
 
 **[Food Ordering Backend](https://github.com/Farkhan2025)**
 
-REST API backend for a food ordering system, built with Spring Boot and MySQL. Follows a clean layered architecture separating concerns across controller, service, and repository layers.
+REST API backend for a food ordering management system. Built with Spring Boot and MySQL, structured around a clean separation of concerns across controller, service, and repository layers.
 
 ```
-Stack      →  Java, Spring Boot, Spring Data JPA, MySQL
-Pattern    →  Layered Architecture (Controller → Service → Repository)
-API Style  →  RESTful, CRUD
+Stack      →  Java · Spring Boot · Spring Data JPA · MySQL
+Pattern    →  Controller → Service → Repository
+API Style  →  RESTful CRUD
+Tested via →  Postman
 ```
 
 ---
 
-```md
-## GitHub Stats
+### GitHub Activity
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="55%">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Farkhan2025&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=Farkhan2025&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e2e8f0&icon_color=6366f1&text_color=94a3b8&rank_icon=github&include_all_commits=true&cache_seconds=1800)
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farkhan2025&layout=compact&theme=github_dark&hide_border=true"/>
+</td>
+<td width="45%">
 
-</div>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farkhan2025&layout=compact&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8&langs_count=6&cache_seconds=1800)
 
-<br/>
+</td>
+</tr>
+</table>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Farkhan2025&theme=github-dark&hide_border=true"/>
-
-</div>
-```
-
-![Streak](https://streak-stats.demolab.com/?user=Farkhan2025&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=e2e8f0&sideLabels=94a3b8&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&stroke=0d1117&mode=weekly)
+![Streak](https://streak-stats.demolab.com/?user=Farkhan2025&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=e2e8f0&sideLabels=94a3b8&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&stroke=0d1117)
 
 ---
 
-<sub>Open to entry-level roles and internships · [linkedin.com/in/farhan011](https://www.linkedin.com/in/farhan011/)</sub>
+<sub>Open to entry-level roles and internships · <a href="https://www.linkedin.com/in/farhan011/">linkedin.com/in/farhan011</a></sub>
