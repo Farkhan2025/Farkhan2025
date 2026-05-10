@@ -51,16 +51,16 @@ Tested via →  Postman
 
 ---
 
-### GitHub Activity
+### GitHub Stats
 
 <table width="100%">
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Farkhan2025&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e2e8f0&icon_color=6366f1&text_color=94a3b8&rank_icon=github&include_all_commits=true&cache_seconds=1800)
 
 </td>
-<td width="45%">
+<td width="45%" valign="top">
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farkhan2025&layout=compact&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8&langs_count=6&cache_seconds=1800)
 
