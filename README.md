@@ -11,7 +11,7 @@ Building scalable web applications and improving problem-solving skills through 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;REST+API+Builder;React+Learner;DSA+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Java+Full+Stack+Developer;Problem+Solver;DSA+Enthusiast" />
 </p>
 
 ---
@@ -46,13 +46,13 @@ Building scalable web applications and improving problem-solving skills through 
 ### 🍔 Food Ordering Backend
 Spring Boot REST API project for food ordering management system.
 
-Features:
+#### Features
 - CRUD Operations
 - Layered Architecture
 - MySQL Integration
 - RESTful APIs
 
-Tech Stack:
+#### Tech Stack
 Java • Spring Boot • MySQL
 
 ---
@@ -60,12 +60,12 @@ Java • Spring Boot • MySQL
 ### 📝 Online Quiz Application
 Full stack quiz application with backend integration.
 
-Features:
+#### Features
 - Quiz Management
 - User Interaction
 - Score Tracking
 
-Tech Stack:
+#### Tech Stack
 Java • Spring Boot • React • MySQL
 
 ---
@@ -73,19 +73,19 @@ Java • Spring Boot • React • MySQL
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Farkhan2025&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farkhan2025&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Coding Profiles
 
-- LeetCode: https://leetcode.com/
-- LinkedIn: https://linkedin.com/
+- LeetCode: https://leetcode.com/u/mohamedfarkhan011/
+- LinkedIn: https://www.linkedin.com/in/farhan011/
 
 ---
 
