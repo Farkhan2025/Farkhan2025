@@ -44,6 +44,7 @@ Building scalable web applications and improving problem-solving skills through 
 ## 📌 Featured Projects
 
 ### 🍔 Food Ordering Backend
+
 Spring Boot REST API project for food ordering management system.
 
 #### Features
@@ -57,27 +58,11 @@ Java • Spring Boot • MySQL
 
 ---
 
-### 📝 Online Quiz Application
-Full stack quiz application with backend integration.
-
-#### Features
-- Quiz Management
-- User Interaction
-- Score Tracking
-
-#### Tech Stack
-Java • Spring Boot • React • MySQL
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farkhan2025&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farkhan2025&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Farkhan2025&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farkhan2025&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
