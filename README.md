@@ -42,7 +42,7 @@ Building backend applications with **Java** and **Spring Boot**. Passionate abou
 
 ### 🤖 AI PDF Chat Application
 
-**Repository:** https://github.com/Farkhan2025/ai-pdf-chat
+**Repository:** [https://github.com/Farkhan2025/ai-pdf-chat](https://github.com/Farkhan2025/ai-pdf-chat-application)
 
 AI-powered PDF Question Answering application built with Spring Boot and React using Spring AI, Ollama, and ChromaDB.
 
@@ -59,7 +59,7 @@ AI-powered PDF Question Answering application built with Spring Boot and React u
 
 ### 🍔 Food Ordering Backend
 
-**Repository:** https://github.com/Farkhan2025
+**Repository:** [https://github.com/Farkhan2025/foodorder](https://github.com/Farkhan2025/Food-Ordering-Backend-)
 
 REST API backend for a food ordering management system built with Spring Boot and MySQL.
 
