@@ -75,23 +75,16 @@ REST API backend for a food ordering management system built with Spring Boot an
 
 ## 📊 GitHub Stats
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Farkhan2025&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farkhan2025&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Farkhan2025&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e2e8f0&icon_color=6366f1&text_color=94a3b8&rank_icon=github&include_all_commits=true&cache_seconds=1800)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Farkhan2025&theme=github-dark&hide_border=true" />
+</p>
 
-</td>
-<td width="45%" valign="top">
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farkhan2025&layout=compact&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8&langs_count=6&cache_seconds=1800)
-
-</td>
-</tr>
-</table>
-
-![Streak](https://streak-stats.demolab.com/?user=Farkhan2025&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=e2e8f0&sideLabels=94a3b8&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&stroke=0d1117)
-
+---
 ---
 
 <sub>🚀 Open to Entry-Level Software Engineer, Java Developer, Backend Developer, Full Stack Developer, and Internship opportunities.</sub>
